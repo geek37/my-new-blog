@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu May 18 12:02:55 2017
+
+@author: ilovetwins
+"""
+
+*.pyc
+*~
+__pycache__
+myve
+db.sqlite3
+/static
+.DS_Store
